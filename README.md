@@ -1,6 +1,6 @@
 # Meu Portifolio
 
-## Meu Site criado com HTML, CSS e Bootstrap com as seguintes funções:
+## Site criado com HTML, CSS e Bootstrap com as seguintes funções:
 
 * Informações sobre Mim;
 * Portifólio;
