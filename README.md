@@ -7,5 +7,5 @@
 * Formulário para Contato;
 * Minhas redes sociais.
 
-<img src='/img/portfolio.png'>
+<img src='assets/img/portfolio.png'>
 
